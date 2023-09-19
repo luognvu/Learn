@@ -1,5 +1,6 @@
 # Learn
-Learn code
+
+- [LAB2](https://github.com/luognvu/Learn/tree/main/LAB2)
 
 # Semi-supervised Sequence Learning
 
