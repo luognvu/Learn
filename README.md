@@ -7,3 +7,8 @@
 - This is [**Paper**](https://paperswithcode.com/paper/semi-supervised-sequence-learning)
 - [**Summary**](https://hyunyoung2.github.io/2019/11/11/Semi-supervised_Sequence_Learning/) (Refer)
 - [**Model Train**](https://github.com/tensorflow/models/tree/master/research/adversarial_text)
+
+
+- [**Self-Supervised Learning**](https://paperswithcode.com/task/self-supervised-learning)
+
+- [**Text classification**](https://github.com/TobiasLee/Text-Classification/tree/master)
