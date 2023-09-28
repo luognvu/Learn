@@ -12,3 +12,8 @@
 - [**Self-Supervised Learning**](https://paperswithcode.com/task/self-supervised-learning)
 
 - [**Text classification**](https://github.com/TobiasLee/Text-Classification/tree/master)
+
+
+711K
+04401015975257
+Mạc Thiện Chí Cường
