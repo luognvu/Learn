@@ -13,7 +13,4 @@
 
 - [**Text classification**](https://github.com/TobiasLee/Text-Classification/tree/master)
 
-
-711K
-04401015975257
-Mạc Thiện Chí Cường
+- [Tài liệu](https://github.com/luognvu/Learn/blob/main/TailieuOntap.docx)
