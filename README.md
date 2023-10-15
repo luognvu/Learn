@@ -14,3 +14,4 @@
 - [**Text classification**](https://github.com/TobiasLee/Text-Classification/tree/master)
 
 - [Tài liệu](https://github.com/luognvu/Learn/blob/main/TailieuOntap.docx)
+- [Tài liệu 6+7](https://github.com/luognvu/Learn/blob/main/LAB6+7.docx)
