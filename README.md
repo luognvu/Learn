@@ -15,3 +15,6 @@
 
 - [Tài liệu](https://github.com/luognvu/Learn/blob/main/TailieuOntap.docx)
 - [Tài liệu 6+7](https://github.com/luognvu/Learn/blob/main/LAB6+7.docx)
+
+
+https://stackoverflow.com/questions/29058450/get-all-data-from-listview-and-compare-string-in-c-sharp
