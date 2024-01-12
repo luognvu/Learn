@@ -4,4 +4,4 @@
 
 # Print
 - [ALL](https://github.com/luognvu/Learn)
-- [SXTK](https://github.com/luognvu/Learn/blob/main/HK1B2324_B%C3%80I%20T%E1%BA%ACP%20TR%E1%BA%AEC%20NGHI%E1%BB%86M.rar)
+- [SXTK](https://github.com/luognvu/Learn/blob/main/HK1B_T%C3%B3m%20t%E1%BA%AFt%20_X%C3%A1c%20su%E1%BA%A5t%20th%E1%BB%91ng%20k%C3%AA.pdf)
